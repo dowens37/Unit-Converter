@@ -1,0 +1,23 @@
+html {
+    background-color: #3e5294;
+}
+
+.col-6 {
+    background: #456;
+}
+
+.measure, .units, h6, p {
+    color: #fff;
+    text-align: center;
+}
+
+.container-fluid {
+    background-color: #3e5294;
+    text-align: center;
+    
+}
+
+h1{
+    color: #fff;
+    margin: 5px;
+}
